@@ -6,7 +6,7 @@
 #include<stdlib.h>
 using namespace std;
 
-#include "Double-Link-List/DLL_Node.h"
+#include "DLL_Node.h"
 
 int main()
 {
